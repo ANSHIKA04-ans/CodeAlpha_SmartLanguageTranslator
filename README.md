@@ -40,7 +40,7 @@ CodeAlpha_SmartLanguageTranslator/
 
 ## 👩‍💻 Author
 
-Anshika Rautela
+Anshika 
 
 ## 🎯 Internship
 
