@@ -45,7 +45,5 @@ Anshika
 
 BCA Student | Aspiring AI & Data Analytics Professional
 
-## Internship
 
-Project completed during the CodeAlpha Artificial Intelligence Internship Program.
 
